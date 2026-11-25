@@ -1,0 +1,22 @@
+ASSESSMENT 3.6 - BINARY TREE STRUCTURE
+Name: DELA CUESTA
+Letters: D E L A C U E S T A
+
+                         D
+                       /   \\
+                      E     L
+                    /  \\  / \\
+                   A    C U   E
+                  / \\  /
+                 S   T A
+
+DFS TRAVERSALS
+--------------
+PREORDER (Root - Left - Right):
+D -> E -> A -> S -> T -> C -> A -> L -> U -> E
+
+INORDER (Left - Root - Right):
+S -> A -> T -> E -> A -> C -> D -> U -> L -> E
+
+POSTORDER (Left - Right - Root):
+S -> T -> A -> A -> C -> E -> U -> E -> L -> D
